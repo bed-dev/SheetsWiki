@@ -5,13 +5,13 @@
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
 
-## Basics
+## Configuration
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Creating & Editing Menus](configuration/publish-your-docs.md)
+* [Buttons](configuration/editor.md)
+* [Markdown](configuration/markdown.md)
+* [Images & media](configuration/images-and-media.md)
+* [Interactive blocks](configuration/interactive-blocks.md)
+* [OpenAPI](configuration/openapi.md)
+* [Integrations](configuration/integrations.md)

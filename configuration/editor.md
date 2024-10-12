@@ -1,14 +1,12 @@
 ---
-icon: pen-to-square
+icon: circle-dot
+description: >-
+  Buttons are the interactive elements within a menu that players can click to
+  trigger various actions. Each button can be customized to display specific
+  menus, run commands, send messages, and more.
 ---
 
-# Editor
-
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
-
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
-
-### Writing content
+# Buttons
 
 GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
 
